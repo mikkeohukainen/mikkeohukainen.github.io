@@ -10,7 +10,7 @@ This is a short summary of the programming languages and their features i've lea
 5. [Java](#java)
 6. [Comparison](#language-comparison)
 7. [Code snippets](#example-code-snippets)
-8. [Read more](#read-more)
+8. [Read more](#read-more)  
   
 
 ## Python
