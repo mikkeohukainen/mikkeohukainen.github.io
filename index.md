@@ -149,16 +149,6 @@ public class Main {
     }
 }
 ```
-## My path
-The order I learned these languages in:
-
-```mermaid
-graph LR;
-    id1(Python)-->id2(C);
-    id2-->id3(C++);
-    id3-->id4(JavaScript);
-    id4-->id5(Java);
-```
 
 ## Read more
 W3Schools:
