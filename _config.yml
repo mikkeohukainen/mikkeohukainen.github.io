@@ -1,4 +1,2 @@
 markdown: GFM
-plugins:
-- jekyll-remote-theme
-remote_theme: jekyll-theme-chirpy
+theme: jekyll-theme-midnight
