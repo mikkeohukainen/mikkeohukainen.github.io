@@ -12,6 +12,7 @@ This is a short summary of the programming languages and their features i've lea
 7. [Code snippets](#example-code-snippets)
 8. [Read more](#read-more)
 
+\
 ## Python
 ![pythonlogo](/img/Python_logo.png)
 ### Description
@@ -26,6 +27,7 @@ It supports multiple programming paradigms, including procedural, object-oriente
 - Data analysis and machine learning (Pandas, NumPy)
 - Automation and scripting
 
+\
 ## C
 ![Clogo](/img/C_logo.png)
 ### Description
@@ -40,6 +42,7 @@ It is known for its efficiency and control over system resources, making it popu
 - Embedded systems and microcontrollers
 - Performance-critical applications (game engines)
 
+\
 <a name="cpp"></a>
 ## C++
 ![C++logo](/img/C++_logo.png)
@@ -55,6 +58,7 @@ It combines the efficiency and control of C with the added power of classes, inh
 - Real-time systems and application software
 - Large-scale systems and infrastructure software
 
+\
 ## JavaScript
 ![jslogo](/img/js_logo.png)
 ### Description
@@ -69,6 +73,7 @@ It enables interactive web pages and is an essential part of web applications.
 - Server-side development (Node.js)
 - Mobile app development (React Native, Ionic)
 
+\
 ## Java
 ![javalogo](/img/java_logo.png)
 ### Description
@@ -83,6 +88,7 @@ It follows the WORA (write once, run anywhere) principle, thanks to the Java Vir
 - Android mobile app development
 - Large-scale financial and banking systems
 
+\
 ## Language Comparison
 
 | Feature       | Python | C  | C++ | JavaScript | Java |
@@ -93,6 +99,7 @@ It follows the WORA (write once, run anywhere) principle, thanks to the Java Vir
 | Memory Management | Automated  | Manual    | Manual/Automated | Automated  | Automated |
 | Type System       | Dynamic    | Static    | Static    | Dynamic  | Static  |
 
+\
 ## Example code snippets
 ### Python
 ```python
@@ -150,6 +157,7 @@ public class Main {
 }
 ```
 
+\
 ## Read more
 W3Schools:
 - [Python](https://www.w3schools.com/python/python_intro.asp)
