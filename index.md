@@ -102,7 +102,7 @@ for i in range(5):
     print(f"Number {i}")
 ```
 ### C
-```C
+```c
 #include <stdio.h>
 
 int main() {
@@ -116,7 +116,7 @@ int main() {
 }
 ```
 ### C++
-```C++
+```c++
 #include <iostream>
 
 int main() {
